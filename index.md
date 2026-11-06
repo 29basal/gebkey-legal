@@ -4,7 +4,7 @@ title: GebKey AI Gizlilik Politikası / Privacy Policy
 
 # GebKey AI Gizlilik Politikası
 
-Son güncelleme: 5 Kasım 2026
+Son güncelleme: 6 Kasım 2026
 
 Bu politika, BasalSoft tarafından geliştirilen GebKey AI iOS uygulamasının ve klavye eklentisinin ("Uygulama") verilerinizi nasıl işlediğini açıklar.
 
@@ -42,6 +42,10 @@ Abone olmayan kullanıcılar, ana uygulamada isteğe bağlı olarak ödüllü vi
 - Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'deki kullanıcılardan, reklam gösterilmeden önce Google'ın izin formu ile onay istenir. Bu tercihi Uygulama'daki **Ayarlar > Reklam Gizlilik Tercihleri** bölümünden istediğiniz zaman değiştirebilirsiniz.
 - PRO kullanıcılarına reklam gösterilmez. Klavye eklentisinde reklam yoktur ve yazdığınız metin reklam amacıyla kullanılmaz.
 
+## 5a. Anonim kullanım ölçümü
+
+Uygulamayı geliştirmek için ana uygulama, **TelemetryDeck** (TelemetryDeck GmbH, Almanya) ile anonim kullanım sayıları gönderir: örneğin uygulamanın açılması, ödeme ekranının görüntülenmesi, bir satın almanın tamamlanması veya klavyede yapılan çeviri **sayısı**. Yazdığınız veya çevirdiğiniz metin, adınız, e-posta adresiniz ve reklam kimliğiniz **gönderilmez**. Cihaz kimliği, TelemetryDeck'e gönderilmeden önce tek yönlü olarak şifrelenir (hash). Klavye eklentisi ölçüm verisi göndermez. Ayrıntılar: https://telemetrydeck.com/privacy
+
 ## 6. Üçüncü taraflarla paylaşım
 
 Yazdığınız veya çevirdiğiniz metin reklam, analitik veya pazarlama amacıyla hiçbir üçüncü tarafla paylaşılmaz veya satılmaz. Metin yalnızca yukarıdaki çeviri hizmetlerine, çeviriyi yapmak için iletilir.
@@ -60,7 +64,7 @@ Bu politikada değişiklik olursa güncel sürüm bu sayfada yayınlanır ve "So
 
 # GebKey AI Privacy Policy
 
-Last updated: November 5, 2026
+Last updated: November 6, 2026
 
 This policy explains how the GebKey AI iOS app and keyboard extension ("App"), developed by BasalSoft, handles your data.
 
@@ -97,6 +101,10 @@ Users without a subscription can optionally watch a rewarded video ad in the mai
 - Google may process information such as device information, approximate location (from your IP address), ad interactions and diagnostic data to serve and measure ads and to prevent abuse: https://policies.google.com/technologies/ads
 - Users in the European Economic Area, the United Kingdom and Switzerland are asked for consent through Google's consent form before any ad is shown. You can change this choice at any time in **Settings > Ad Privacy Preferences** in the App.
 - PRO users are not shown ads. The keyboard extension contains no ads, and the text you type is never used for advertising.
+
+## 5a. Anonymous usage analytics
+
+To improve the App, the main app sends anonymous usage counts to **TelemetryDeck** (TelemetryDeck GmbH, Germany): for example that the app was opened, that the paywall was shown, that a purchase was completed, or the **number** of translations made with the keyboard. The text you type or translate, your name, your email address and your advertising identifier are **never** sent. The device identifier is one-way hashed before it is sent to TelemetryDeck. The keyboard extension sends no analytics. Details: https://telemetrydeck.com/privacy
 
 ## 6. Sharing with third parties
 
